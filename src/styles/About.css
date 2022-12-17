@@ -1,0 +1,36 @@
+.About{
+    height: 700px;
+ }
+
+ .profilepic{
+    border-radius: 50%;
+    margin:25px;
+    width:350px;
+    height: auto;
+ }
+
+ .section{
+   width:900px;
+   background: #292929;
+   padding: 30px;
+   border-radius: 10px;
+   border: 2px solid #ffa31a;
+ }
+
+ .name{
+   font-weight: 600;
+   font-size: 4rem;
+   color:white;
+ }
+
+ .post{
+   font-weight: 600;
+   font-size:1.5rem;
+   color:white;
+   letter-spacing: 0.27rem;
+ }
+
+ .description{
+   margin-top: 25px;
+   color:white; 
+ }
